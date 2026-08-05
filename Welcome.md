@@ -2,18 +2,9 @@
 
 This folder is the Obsidian vault for the VAYRANIS world bible.
 
-This vault now contains the VAYRANIS structure and starter documentation.
-
-Open `README.md` first if you want the overview, or `INDEX.md` if you want the navigation page.
-
-## Visuals
-
-![[Assets/VAYRANIS-Cover.png]]
-
-![[Assets/VAYRANIS-Sigil.png]]
-
 Open this folder in Obsidian:
 
 `C:\Users\Sai Phanindra\Documents\VAYRANIS`
 
 If you do not see files, make sure you opened the outer folder, not the nested `VAYRANIS` subfolder.
+
