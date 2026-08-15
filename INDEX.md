@@ -2,6 +2,7 @@
 
 ## Creator Bible
 
+- [VAYRANIS Creator Bible](00_CREATOR_BIBLE/VAYRANIS_Creator_Bible.md)
 - [Project Vision](00_CREATOR_BIBLE/PROJECT_VISION.md)
 - [Founder Note](00_CREATOR_BIBLE/FOUNDER_NOTE.md)
 - [Design Constitution](00_CREATOR_BIBLE/DESIGN_CONSTITUTION.md)
@@ -22,4 +23,3 @@
 - [Art Bible](08_ART_BIBLE/README.md)
 - [Game Design](09_GAME_DESIGN/README.md)
 - [Reference](10_REFERENCE/README.md)
-

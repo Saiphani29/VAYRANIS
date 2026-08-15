@@ -11,12 +11,14 @@
             "id": "06e99825b725a1e9",
             "type": "leaf",
             "state": {
-              "type": "image",
+              "type": "markdown",
               "state": {
-                "file": "Assets/World-of-VAYRANIS-Map.png"
+                "file": "00_CREATOR_BIBLE/WORLD_DESIGN_PHILOSOPHY.md",
+                "mode": "source",
+                "source": false
               },
-              "icon": "lucide-image",
-              "title": "World-of-VAYRANIS-Map"
+              "icon": "lucide-file",
+              "title": "WORLD_DESIGN_PHILOSOPHY"
             }
           }
         ]
@@ -167,13 +169,23 @@
               "icon": "lucide-list",
               "title": "Outline"
             }
+          },
+          {
+            "id": "c7cba421b6ae638d",
+            "type": "leaf",
+            "state": {
+              "type": "git-view",
+              "state": {},
+              "icon": "git-pull-request",
+              "title": "Source Control"
+            }
           }
-        ]
+        ],
+        "currentTab": 5
       }
     ],
     "direction": "horizontal",
-    "width": 300,
-    "collapsed": true
+    "width": 300
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -183,25 +195,29 @@
       "daily-notes:Open today's daily note": false,
       "templates:Insert template": false,
       "command-palette:Open command palette": false,
-      "bases:Create new base": false
+      "bases:Create new base": false,
+      "obsidian-excalidraw-plugin:New drawing": false,
+      "obsidian-git:Open Git source control": false,
+      "obsidian-kanban:Create new board": false
     }
   },
   "active": "06e99825b725a1e9",
   "lastOpenFiles": [
+    "00_CREATOR_BIBLE/ROADMAP.md",
+    "00_CREATOR_BIBLE/README.md",
+    "00_CREATOR_BIBLE/PROJECT_VISION.md",
+    "08_ART_BIBLE/LOGO.md",
+    "Assets/World-of-VAYRANIS-Map.png",
     "Assets/VAYRANIS-Sigil.png",
     "Assets/VAYRANIS-Logo.png",
     "Assets/VAYRANIS-Cover.png",
     "Assets/README.md",
-    "Assets/World-of-VAYRANIS-Map.png",
-    "08_ART_BIBLE/LOGO.md",
     "08_ART_BIBLE/BRAND_CONCEPT.md",
     "Assets/VAYRANIS-Brand-Concept.png",
     "08_ART_BIBLE/README.md",
     "01_WORLD_FOUNDATION/WORLD_MAP.md",
     "Assets",
     "07_STORY/README.md",
-    "00_CREATOR_BIBLE/ROADMAP.md",
-    "00_CREATOR_BIBLE/PROJECT_VISION.md",
     "00_CREATOR_BIBLE/NAMING_CONVENTIONS.md",
     "00_CREATOR_BIBLE/FOUNDER_NOTE.md",
     "09_GAME_DESIGN/README.md",
@@ -216,7 +232,6 @@
     "04_CULTURE/README.md",
     "01_WORLD_FOUNDATION/README.md",
     "00_CREATOR_BIBLE/WORLD_DESIGN_PHILOSOPHY.md",
-    "00_CREATOR_BIBLE/README.md",
     "00_CREATOR_BIBLE/DOCUMENTATION_STANDARD.md",
     "00_CREATOR_BIBLE/DESIGN_CONSTITUTION.md",
     "CHANGELOG.md",
