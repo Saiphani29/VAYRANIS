@@ -1,25 +1,28 @@
-# VAYRANIS Draft Archive
+# VAYRANIS DRAFT ARCHIVE
 
 ## Purpose
 
-This archive stores development history.
+This archive stores the complete development history of VAYRANIS.
 
-Nothing is deleted. Ideas can evolve, combine, or return in future designs.
+Nothing is deleted. Old concepts, rejected experiments, and early visuals remain available because future systems may reuse or transform them.
 
----
+## Categories
 
-# Categories
+- Human Design Drafts
+- Clothing Evolution Drafts
+- Crown and Royal Design Drafts
+- Animal Design Drafts
+- Natural Energy Experiments
+- World Design Drafts
+- Character Drafts
+- Generated Image Archive
 
-- Character drafts
-- Clothing drafts
-- Crown drafts
-- Animal drafts
-- Natural Energy experiments
-- World design experiments
-- Generated images
+## Separation Rule
 
----
+Draft material is not canon.
 
-# Rule
+A concept becomes official only after review and movement into the correct Art Bible or World System section.
 
-Drafts are not canon until reviewed and moved into the approved design systems.
+## Review Path
+
+Draft → Evaluation → Refinement → Canon
